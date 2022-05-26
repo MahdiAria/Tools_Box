@@ -193,7 +193,8 @@ while(True):
                     print("[ Good Bye ] ")                                        
                     print("\n")
                                 
-                    break
+                    break    
+
                     
     elif Options_List == "Text-Repeater":
                              
@@ -430,6 +431,13 @@ while(True):
             print(attack)                
             print(thread)
             
+    print("\n")        
+            
+    print(" [ Lotfan Dorost Vared Konid ] ")       
+           
+    print("\n")
+    
+                              
     Edame = input(" [ Dost Dari Tool Box ro Edame Bedi ??? y/n ] : ")
     if Edame == "y" or Edame == "yes":
         print("\n")
@@ -440,3 +448,4 @@ while(True):
         print("\n")
         print(" [ Be Omid Didar ] " )
         break
+                
