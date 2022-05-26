@@ -50,4 +50,4 @@
 
 * 'cd 'Tools_Box'
 
-* 'python3 or python toolbox.py
+* 'python3 or python tools-box.py
