@@ -40,10 +40,11 @@
 * Last Step => 'Would you like to continue??? [ yes or no ]'
 ###### RUN :
 
+* Link => https://github.com/MahdiAria/Tools_Box
+
+* Prerequisite = 'git clone'
 
 * 'ls'
-
-* 'cd My-Project'
 
 * 'cd 'Tools_Box'
 
