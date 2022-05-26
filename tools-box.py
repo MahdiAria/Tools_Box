@@ -430,7 +430,7 @@ while(True):
             print(attack)                
             print(thread)
             
-    Edame = input(" [ Dost Dari Edame Bedi ??? y/n ] : ")
+    Edame = input(" [ Dost Dari Tool Box ro Edame Bedi ??? y/n ] : ")
     if Edame == "y" or Edame == "yes":
         print("\n")
         print(" [ Kheyli Khosh Halam ] ")
