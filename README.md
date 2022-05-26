@@ -38,7 +38,9 @@
 * Step5 => 'Enter s'
 * Step6 => 'Select the desired option from the app list'
 * Last Step => 'Would you like to continue??? [ yes or no ]'
-###### RUN :
+
+
+###### INSTALLATION :
 
 * Link => https://github.com/MahdiAria/Tools_Box
 
